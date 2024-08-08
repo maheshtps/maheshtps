@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**maheshtps/maheshtps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about web technologies such as Angular, React, Vue and .Net Blazor frameworks. 
+
 
 Here are some ideas to get you started:
 
